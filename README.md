@@ -1,4 +1,4 @@
-# Broadband-scattering-suppression
+# Broadband-scattering-suppression using nano-assembled 3D plasmoninc meta-structure
 Mathematical description and related computation of the broadband scattering suppression using a nano-assembled 3D plasmonic meta-structure project. 
 Computational method and related codes shown here is a part of the published work. 
 The publication can be found in the following link https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-28-15-22732&id=433552
